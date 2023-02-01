@@ -1,0 +1,102 @@
+/*
+# bei ID
+. bei class
+x[y] bei name
+ */
+
+.jumbotron .title {
+    font-size: 3em;
+    text-align: center;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+#lss {
+    padding-left: 70px;
+}
+
+.container{
+    alignment: center;
+    text-align: left;
+    width: 500px;
+}
+
+
+button[name="but3"] {
+    border: none;
+    color: white;
+    background: lightgreen ;
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+
+select[name="selects"]{
+    width:  800px;
+    border-color: lightgrey;
+
+}
+
+input{
+    border-color: lightgrey;
+}
+
+textarea{
+    border-color: #dddddd;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+td, th {
+    border: white;
+    text-align: left;
+    padding: 10px;
+}
+
+#tab {
+    background: #dddddd;
+}
+
+.btn {
+    background: white;
+    border: none;
+    color: dodgerblue;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.bt {
+    border: none;
+    color: white;
+    background: cornflowerblue;
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+
+.bt2 {
+    border: none;
+    color: white;
+    background: crimson;
+    padding: 5px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 2px;
+    cursor: pointer;
+}
+
+
+
